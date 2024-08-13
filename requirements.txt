@@ -1,5 +1,5 @@
-streamlit
-numpy
-pandas
-sckit-learn
+streamlit==1.24.0
+numpy==1.24.4
+pandas==1.5.3
+sckit-learn==1.2.2
 
