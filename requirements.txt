@@ -2,3 +2,4 @@ streamlit
 numpy
 pandas
 sckit-learn
+pip install --upgrade pip setuptools
