@@ -1,6 +1,5 @@
-streamlit
-numpy
-pandas
-sckit-learn
-pip install --upgrade pip setuptools
-pip install<package_name> --verbose
+streamlit==latest
+numpy==2.0.1
+pandas==2.2.2
+sckit-learn==latest
+
